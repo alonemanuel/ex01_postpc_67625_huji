@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ex01PostPC</string>
+    <string name="createButton">CREATE</string>
 </resources>

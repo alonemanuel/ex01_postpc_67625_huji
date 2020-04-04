@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Ex01PostPC</string>
+    <string name="app_name">ToDoBoom</string>
     <string name="createButton">CREATE</string>
     <string name="awaiting_user_input">Awaiting user input</string>
 </resources>

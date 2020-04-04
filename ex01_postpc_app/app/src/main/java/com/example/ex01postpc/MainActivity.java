@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-    }
+    } 
 
     // keyboard hider
     public void hideKeyboard() {
